@@ -11,7 +11,11 @@
 .highlight {
     color: violet;
     font-weight: bold;
+    
 }
+.gojosensei {
+    color: yellow
+    font-weight: bold;
 
 a:link {
     color: blue;
@@ -24,6 +28,7 @@ a:visited {
 a:hover {
     color: green;
 }
+
 
 
 
