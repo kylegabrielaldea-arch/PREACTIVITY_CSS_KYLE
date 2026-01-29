@@ -17,11 +17,14 @@ a:link {
     color: blue;
 }
 
+a:visited {
+    color: orange;
+}
+
 a:hover {
     color: green;
 }
 
-a:visited {
-    color: orange;
-}
+
+
 
